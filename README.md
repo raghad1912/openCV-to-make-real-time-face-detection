@@ -87,4 +87,12 @@
 ![Screenshot (69)](https://user-images.githubusercontent.com/56357074/125143557-bfa07100-e123-11eb-8095-de4ec72ec767.png)
 
 
-#### and when you want stop a webcam capture press 'q' , you can choose any key that you want to stop a capture by change a parameter of ```ord()``` that is in line 28 
+#### and when you want stop a webcam capture press 'q' , you can choose any key that you want to stop a capture by change a parameter of ```ord()``` that is in line 28 .
+
+
+
+
+## reference : 
+
+   -  i took this project from [ https://techvidvan.com/tutorials/face-recognition-project-python-opencv/ ]
+   -  and some information about methods or functions i took it , is from [geeks for geeks](https://www.geeksforgeeks.org/) , there are a lot of information about python and openCV
