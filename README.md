@@ -5,9 +5,9 @@
 
 ## introduction :
 
-#### openCV is a open source library for computer vision , image and video processing   and a lot of things .
-#### openCV support a number of programming language like python , C++ , java ,etc
-#### i will use openCV with python 
+  - openCV is a open source library for computer vision , image and video processing   and a lot of things .
+  - openCV support a number of programming language like python , C++ , java ,etc
+  - i will use openCV with python 
 
 
 ## steps : 
