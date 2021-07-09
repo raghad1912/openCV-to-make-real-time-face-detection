@@ -84,5 +84,7 @@
 
 #### then run a program 
 
+![Screenshot (69)](https://user-images.githubusercontent.com/56357074/125143557-bfa07100-e123-11eb-8095-de4ec72ec767.png)
+
 
 #### and when you want stop a webcam capture press 'q' , you can choose any key that you want to stop a capture by change a parameter of ```ord()``` that is in line 28 
