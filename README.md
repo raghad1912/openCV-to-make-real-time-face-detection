@@ -1,6 +1,13 @@
 # use openCV to make real time face detection
 
 
+
+
+## introduction:
+### openCV is a open source library for computer vision , image and video processing   and a lot of things .
+### openCV support a number of programming language like python , C++ , java ,etc
+### i will use openCV with python 
+
 #### first of all you must install python , if you don't ,so go to this link [install python on windows(pycharm IDE)](https://www.guru99.com/how-to-install-python.html)
 
 #### go to terminal option  that in pycharm ( at the bottom ) and write this command : 
@@ -14,7 +21,7 @@
 #### 1. Imports:
 
 ```
-1 | import cv2
+1 | import cv2 
 2 | import os
 ```
 
@@ -54,3 +61,17 @@
 28 |     if cv2.waitKey(1) & 0xFF == ord('q'):
 29 |         break
 ```
+
+#### 4. Release the capture frames:
+
+```
+30 | video_capture.release()
+31 | cv2.destroyAllWindows()
+```
+
+
+#### then run a program 
+
+
+
+#### and when you want stop a webcam capture press 'q' 
